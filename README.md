@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Collins Kiptoo Kiprotich</h1>
 <h3 align="center">A passionate Data Scientist from Kenya.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=collins-kiptoo&label=Profile%20views&color=0e75b6&style=flat" alt="collins-kiptoo" /> </p>
+<img align = "center" alt = "Coding" width = "350" height = "350" frameBorder = "0" src = "https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif">
 
 - ⚡ Fun fact **I am a bitcoin enthusiast.**
 
@@ -16,6 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=collins-kiptoo&show_icons=true&locale=en&layout=compact" alt="collins-kiptoo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=collins-kiptoo&show_icons=true&locale=en" alt="collins-kiptoo" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=collins-kiptoo&show_icons=true&locale=en" alt="collins-kiptoo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=collins-kiptoo&" alt="collins-kiptoo" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=collins-kiptoo&" alt="collins-kiptoo" /></p>
